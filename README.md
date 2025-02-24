@@ -20,13 +20,13 @@ Clone this repository:
 git clone https://github.com/mariam-gad232/ANN-from-scratch.git
 ```
 
-##Code Overview
+## Code Overview
 Forward Pass: Computes outputs using weighted sums and the tanh activation function.
 Error Calculation: Computes the difference between predicted and target outputs.
 Backpropagation: Updates weights using the derivative of tanh and the computed error.
 Stopping Condition: Stops training when the error is below 0.001.
 
-Example Output
+## Example Output
 ```
 Final output of the network:
 o1: 0.0101
